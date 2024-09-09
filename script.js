@@ -1,6 +1,6 @@
-document.write("Hello World");
+document.write("Hello World -changed");
 document.write("<br>");
-document.write("Hello World");
+document.write("Hello World -changed");
 console.log("This is a test message")
 console.warn("Warning")
 console.error("error message")
